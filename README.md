@@ -67,3 +67,13 @@ surrounding objects. When an obstacle is detected within a predefined range, the
 9. **Final validation:**  
     Finally, the robot was tested across different obstacle sizes and surfaces to validate its obstacle avoidance behavior | capability before recording the outcomes and committing the final code to the repository.
 
+---
+
+### 🎥 Demo
+
+<p align="center">
+    <img src="Demo/demo_5.gif" alt="The Obstacle Avoidance Robot in Motion" width="500"/>
+    <br>
+    <em> The Obstacle Avoidance Robot in Motion</em>
+</p>
+
