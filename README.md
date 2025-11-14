@@ -102,7 +102,7 @@ surrounding objects. When an obstacle is detected within a predefined range, the
 
 ## ⚠️ Challenges Encountered
 
-The main challenge encountered was calibrating the motor speeds and mmovements to ensure smooth and stable turns, as the robot initially made abrupt movements whenever an obstacle was detected
+The main challenge encountered was calibrating the motor speeds and movements to ensure smooth and stable turns, as the robot initially made abrupt movements whenever an obstacle was detected
 
 ---
 
